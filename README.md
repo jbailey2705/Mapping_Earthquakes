@@ -18,4 +18,5 @@ The purpose of this project is to visually show the differences between the magn
 
 ## Results
 Creating overlays and controls to move between different views on the map
+
 ![Screenshot 2022-11-05 at 12 42 26 PM](https://user-images.githubusercontent.com/109354592/200133774-190a38b8-4bcb-41d1-b7b1-c7fc52cfcd27.png)
