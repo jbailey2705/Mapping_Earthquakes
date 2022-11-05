@@ -13,5 +13,5 @@ The purpose of this project is to visually show the differences between the magn
 9. Render maps on a local server to show various layers.
 
 ## Resources
-- Data Source: Earthquakes GeoJSON, Earthquakes above 4.5mag GeoJSON, https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json
+- Data Source: [Earthquakes GeoJSON, Earthquakes above 4.5mag GeoJSON,](https://github.com/cedoula/Mapping_Earthquakes#:~:text=Earthquakes%20GeoJSON%2C%20Earthquakes%20above%204.5mag%20GeoJSON%2C) [Tectonic Plate GeoJSON](https://github.com/cedoula/Mapping_Earthquakes#:~:text=Tectonic%20Plate%20GeoJSON)
 - Software: HTML/CSS, JavaScript, Visual Studio Code 1.49.1, Leaflet 1.7.1, D3.js 6.2.0
