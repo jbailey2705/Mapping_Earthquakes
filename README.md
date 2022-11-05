@@ -25,3 +25,15 @@ Show a map key to show earthquakes based on the Magnitude of the event.
 
 ![Screenshot 2022-11-05 at 12 44 39 PM](https://user-images.githubusercontent.com/109354592/200133844-7be8f935-46f8-44f9-8ede-7a9ddafbc59f.png)
 
+Display the layer options avaliable to the consumer of the information.
+- Dark Layer with major earhquakes
+- Light Layer with earthquake toggles
+- Satellite Layer showing tectonic plates
+- Street layer showing only earthquakes
+
+![Screenshot 2022-11-05 at 12 50 02 PM](https://user-images.githubusercontent.com/109354592/200134222-038ecfee-377c-41f7-88b7-f91109532b0f.png)
+![Screenshot 2022-11-05 at 12 50 52 PM](https://user-images.githubusercontent.com/109354592/200134224-5f53bcc6-246d-47c1-9a45-b863fd3d0e85.png)
+![Screenshot 2022-11-05 at 12 51 22 PM](https://user-images.githubusercontent.com/109354592/200134225-09ed6454-2cbf-4650-98eb-1c6255d4cf70.png)
+![Screenshot 2022-11-05 at 12 52 40 PM](https://user-images.githubusercontent.com/109354592/200134227-903c61de-7554-40f6-8cf8-e8696587dcf3.png)
+
+
