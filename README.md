@@ -13,5 +13,5 @@ The purpose of this project is to visually show the differences between the magn
 9. Render maps on a local server to show various layers.
 
 ## Resources
-- Data Source: [Earthquakes GeoJSON ](https://github.com/cedoula/Mapping_Earthquakes#:~:text=Data%20Source%3A-,Earthquakes%20GeoJSON,-%2C%20Earthquakes%20above, 
+- Data Source: [Earthquakes GeoJSON](https://github.com/cedoula/Mapping_Earthquakes#:~:text=Data%20Source%3A-,Earthquakes%20GeoJSON,-%2C%20Earthquakes%20above)
 - Software: HTML/CSS, JavaScript, Visual Studio Code 1.49.1, Leaflet 1.7.1, D3.js 6.2.0
