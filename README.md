@@ -15,3 +15,6 @@ The purpose of this project is to visually show the differences between the magn
 ## Resources
 - Data Source: [Earthquakes GeoJSON](https://github.com/cedoula/Mapping_Earthquakes#:~:text=Data%20Source%3A-,Earthquakes%20GeoJSON,-%2C%20Earthquakes%20above), [Earthquakes above 4.5mag GeoJSON](https://github.com/cedoula/Mapping_Earthquakes#:~:text=Earthquakes%20above%204.5mag%20GeoJSON), [Tectonic Plate GeoJSON](https://github.com/cedoula/Mapping_Earthquakes#:~:text=Tectonic%20Plate%20GeoJSON)
 - Software: HTML/CSS, JavaScript, Visual Studio Code 1.49.1, Leaflet 1.7.1, D3.js 6.2.0
+
+## Results
+Creating overlays and controls to move between different views on the map![Screenshot 2022-11-05 at 12 42 26 PM](https://user-images.githubusercontent.com/109354592/200133774-190a38b8-4bcb-41d1-b7b1-c7fc52cfcd27.png)
