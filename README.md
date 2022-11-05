@@ -26,14 +26,15 @@ Show a map key to show earthquakes based on the Magnitude of the event.
 ![Screenshot 2022-11-05 at 12 44 39 PM](https://user-images.githubusercontent.com/109354592/200133844-7be8f935-46f8-44f9-8ede-7a9ddafbc59f.png)
 
 Display the layer options avaliable to the consumer of the information.
-- Dark Layer with major earhquakes
 - Light Layer with earthquake toggles
+- Drak Layer showing major earthquakes 
 - Satellite Layer showing tectonic plates
 - Street layer showing only earthquakes
 
-![Screenshot 2022-11-05 at 12 50 02 PM](https://user-images.githubusercontent.com/109354592/200134222-038ecfee-377c-41f7-88b7-f91109532b0f.png)
-![Screenshot 2022-11-05 at 12 50 52 PM](https://user-images.githubusercontent.com/109354592/200134224-5f53bcc6-246d-47c1-9a45-b863fd3d0e85.png)
-![Screenshot 2022-11-05 at 12 51 22 PM](https://user-images.githubusercontent.com/109354592/200134225-09ed6454-2cbf-4650-98eb-1c6255d4cf70.png)
-![Screenshot 2022-11-05 at 12 52 40 PM](https://user-images.githubusercontent.com/109354592/200134227-903c61de-7554-40f6-8cf8-e8696587dcf3.png)
+
+![Screenshot 2022-11-05 at 12 51 22 PM](https://user-images.githubusercontent.com/109354592/200134386-d239ebcd-4a98-44e7-90ea-31c5f11aa3f3.png)
+![Screenshot 2022-11-05 at 12 54 08 PM](https://user-images.githubusercontent.com/109354592/200134387-8383440b-dc43-4540-a01a-bd245f2b0fb8.png)
+![Screenshot 2022-11-05 at 12 55 06 PM](https://user-images.githubusercontent.com/109354592/200134388-2f23cb71-045d-4541-83de-dfa31c3842e2.png)
+![Screenshot 2022-11-05 at 12 56 35 PM](https://user-images.githubusercontent.com/109354592/200134389-46cb63cb-b8bd-48b4-b5ae-68ddf52fd810.png)
 
 
