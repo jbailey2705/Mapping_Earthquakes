@@ -31,10 +31,8 @@ Display the layer options avaliable to the consumer of the information.
 - Satellite Layer showing tectonic plates
 - Street layer showing only earthquakes
 
-
-![Screenshot 2022-11-05 at 12 51 22 PM](https://user-images.githubusercontent.com/109354592/200134386-d239ebcd-4a98-44e7-90ea-31c5f11aa3f3.png)
-![Screenshot 2022-11-05 at 12 54 08 PM](https://user-images.githubusercontent.com/109354592/200134387-8383440b-dc43-4540-a01a-bd245f2b0fb8.png)
-![Screenshot 2022-11-05 at 12 55 06 PM](https://user-images.githubusercontent.com/109354592/200134388-2f23cb71-045d-4541-83de-dfa31c3842e2.png)
-![Screenshot 2022-11-05 at 12 56 35 PM](https://user-images.githubusercontent.com/109354592/200134389-46cb63cb-b8bd-48b4-b5ae-68ddf52fd810.png)
-
+![Screenshot 2022-11-05 at 12 56 35 PM](https://user-images.githubusercontent.com/109354592/200134407-8298d79d-40e3-43a1-b5e3-172e8e6468f8.png)
+![Screenshot 2022-11-05 at 12 55 06 PM](https://user-images.githubusercontent.com/109354592/200134413-0f6c43a0-b870-49f8-acf0-61b619ddc48c.png)
+![Screenshot 2022-11-05 at 12 51 22 PM](https://user-images.githubusercontent.com/109354592/200134423-d799e9a6-60b7-42b7-9b12-a4fd7bb76ce2.png)
+![Screenshot 2022-11-05 at 12 54 08 PM](https://user-images.githubusercontent.com/109354592/200134427-319e8fc5-6cd8-4b0a-b5ba-2af760e617b1.png)
 
