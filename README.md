@@ -17,6 +17,11 @@ The purpose of this project is to visually show the differences between the magn
 - Software: HTML/CSS, JavaScript, Visual Studio Code 1.49.1, Leaflet 1.7.1, D3.js 6.2.0
 
 ## Results
-Creating overlays and controls to move between different views on the map
+Creating overlays and controls to move between different views on the map.
 
 ![Screenshot 2022-11-05 at 12 42 26 PM](https://user-images.githubusercontent.com/109354592/200133774-190a38b8-4bcb-41d1-b7b1-c7fc52cfcd27.png)
+
+Show a map key to show earthquakes based on the Magnitude of the event.
+
+![Screenshot 2022-11-05 at 12 44 39 PM](https://user-images.githubusercontent.com/109354592/200133844-7be8f935-46f8-44f9-8ede-7a9ddafbc59f.png)
+
