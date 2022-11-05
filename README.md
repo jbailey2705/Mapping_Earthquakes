@@ -25,9 +25,6 @@ Show a map key to show earthquakes based on the Magnitude of the event.
 
 ![Screenshot 2022-11-05 at 12 44 39 PM](https://user-images.githubusercontent.com/109354592/200133844-7be8f935-46f8-44f9-8ede-7a9ddafbc59f.png)
 
-Link to file:///Users/jbailey2705/Desktop/UT:Bootcamp/Mapping_Earthquakes/Earthquake_Challenge./Static/index.html
-
-
 Display the layer options avaliable to the consumer of the information.
 - Light Layer with earthquake toggles
 - Drak Layer showing major earthquakes 
